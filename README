@@ -1,0 +1,7 @@
+Author : Ayush Minocha
+International Institute of Information Technology, Hyderabad
+
+Custom Linux like shell, which runs bash commands like in Terminal.
+
+To compile : gcc customShell.c
+Run : ./a.out
